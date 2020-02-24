@@ -7,10 +7,10 @@ const sroot = require('./sroot');
 
 class MathOperations {
     static add(a = null, b = null) {
-        return sum.add(a,b);
+        return sum(a,b);
     }
     static difference(a = null, b = null) {
-        return subtract.minus(a,b);
+        return subtract(a,b);
     }
     static product(a,b) {
         return multiply(a,b);

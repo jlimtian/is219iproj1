@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7852f94e-2b60-49c3-bfa7-b8ca913db632" name="Default Changelist" comment="" />
+    <list default="true" id="7852f94e-2b60-49c3-bfa7-b8ca913db632" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/mathoperation.js" beforeDir="false" afterPath="$PROJECT_DIR$/mathoperation.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,7 +15,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -24,7 +26,29 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calc.test.js">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-37" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mathoperation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/calc.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -41,10 +65,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/mathoperation.js" />
       </list>
     </option>
   </component>
@@ -54,6 +82,7 @@
     <option name="width" value="1424" />
     <option name="height" value="820" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -74,6 +103,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -92,23 +122,79 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Calculator Divide 2 by  2 to equal 1" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Jest.Calculator Square 2 has a result equal to 4">
+    <configuration name="Calculator Add 2 by  2 to equal 4" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/calct.js" />
+      <test-file value="$PROJECT_DIR$/calc.test.js" />
       <test-names>
-        <test-name value="Calculator Divide 2 by  2 to equal 1" />
+        <test-name value="Calculator Add 2 by  2 to equal 4" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Calculator Multiply 2 by  2 has a result equal to 4" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/calc.test.js" />
+      <test-names>
+        <test-name value="Calculator Multiply 2 by  2 has a result equal to 4" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Calculator Square 2 has a result equal to 4" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/calc.test.js" />
+      <test-names>
+        <test-name value="Calculator Square 2 has a result equal to 4" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Calculator Square Root 4 has a result equal to 2" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/calc.test.js" />
+      <test-names>
+        <test-name value="Calculator Square Root 4 has a result equal to 2" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Calculator Subtract 2 by  2 has a result equal to 0" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/calc.test.js" />
+      <test-names>
+        <test-name value="Calculator Subtract 2 by  2 has a result equal to 0" />
       </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Jest.Calculator Divide 2 by  2 to equal 1" />
+        <item itemvalue="Jest.Calculator Square 2 has a result equal to 4" />
+        <item itemvalue="Jest.Calculator Square Root 4 has a result equal to 2" />
+        <item itemvalue="Jest.Calculator Subtract 2 by  2 has a result equal to 0" />
+        <item itemvalue="Jest.Calculator Multiply 2 by  2 has a result equal to 4" />
+        <item itemvalue="Jest.Calculator Add 2 by  2 to equal 4" />
       </list>
     </recent_temporary>
   </component>
@@ -122,7 +208,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582565756754</updated>
-      <workItem from="1582565759527" duration="785000" />
+      <workItem from="1582565759527" duration="1147000" />
     </task>
     <servers />
   </component>
@@ -136,12 +222,31 @@
     <history-entry file="Calculator_Divide_2_by__2_to_equal_1 - 2020.02.24 at 12h 45m 34s.xml">
       <configuration name="Calculator Divide 2 by  2 to equal 1" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
+    <history-entry file="Calculator_Divide_2_by__2_to_equal_1_(1) - 2020.02.24 at 12h 55m 26s.xml">
+      <configuration name="Calculator Divide 2 by  2 to equal 1 (1)" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Calculator_Add_2_by__2_to_equal_4 - 2020.02.24 at 12h 55m 44s.xml">
+      <configuration name="Calculator Add 2 by  2 to equal 4" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Calculator_Multiply_2_by__2_has_a_result_equal_to_4 - 2020.02.24 at 12h 55m 57s.xml">
+      <configuration name="Calculator Multiply 2 by  2 has a result equal to 4" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Calculator_Subtract_2_by__2_has_a_result_equal_to_0 - 2020.02.24 at 12h 56m 06s.xml">
+      <configuration name="Calculator Subtract 2 by  2 has a result equal to 0" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Calculator_Square_Root_4_has_a_result_equal_to_2 - 2020.02.24 at 12h 56m 18s.xml">
+      <configuration name="Calculator Square Root 4 has a result equal to 2" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Calculator_Square_2_has_a_result_equal_to_4 - 2020.02.24 at 12h 56m 29s.xml">
+      <configuration name="Calculator Square 2 has a result equal to 4" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="785000" />
+    <option name="totallyTimeSpent" value="1147000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="65" width="1424" height="820" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24946544" />
@@ -169,13 +274,31 @@
     <entry file="file://$PROJECT_DIR$/jest.config.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/calc.test.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calc.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mathoperation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
