@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7852f94e-2b60-49c3-bfa7-b8ca913db632" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/mathoperation.js" beforeDir="false" afterPath="$PROJECT_DIR$/mathoperation.js" afterDir="false" />
-    </list>
+    <list default="true" id="7852f94e-2b60-49c3-bfa7-b8ca913db632" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,12 +24,19 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calc.test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-37" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mathoperation.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -73,6 +78,7 @@
       <list>
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/mathoperation.js" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -122,7 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Jest.Calculator Square 2 has a result equal to 4">
+  <component name="RunManager" selected="Jest.Calculator Subtract 2 by  2 has a result equal to 0">
     <configuration name="Calculator Add 2 by  2 to equal 4" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -190,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.Calculator Subtract 2 by  2 has a result equal to 0" />
+        <item itemvalue="Jest.Calculator Add 2 by  2 to equal 4" />
         <item itemvalue="Jest.Calculator Square 2 has a result equal to 4" />
         <item itemvalue="Jest.Calculator Square Root 4 has a result equal to 2" />
-        <item itemvalue="Jest.Calculator Subtract 2 by  2 has a result equal to 0" />
         <item itemvalue="Jest.Calculator Multiply 2 by  2 has a result equal to 4" />
-        <item itemvalue="Jest.Calculator Add 2 by  2 to equal 4" />
       </list>
     </recent_temporary>
   </component>
@@ -208,14 +214,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582565756754</updated>
-      <workItem from="1582565759527" duration="1147000" />
+      <workItem from="1582565759527" duration="1550000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Calculator_Divide_2_by__2_to_equal_1 - 2020.02.24 at 12h 40m 37s.xml">
-      <configuration name="Calculator Divide 2 by  2 to equal 1" configurationId="JavaScriptTestRunnerJest" />
-    </history-entry>
     <history-entry file="Calculator_Divide_2_by__2_to_equal_1 - 2020.02.24 at 12h 42m 01s.xml">
       <configuration name="Calculator Divide 2 by  2 to equal 1" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
@@ -240,24 +243,30 @@
     <history-entry file="Calculator_Square_2_has_a_result_equal_to_4 - 2020.02.24 at 12h 56m 29s.xml">
       <configuration name="Calculator Square 2 has a result equal to 4" configurationId="JavaScriptTestRunnerJest" />
     </history-entry>
+    <history-entry file="Calculator_Add_2_by__2_to_equal_4 - 2020.02.24 at 12h 59m 30s.xml">
+      <configuration name="Calculator Add 2 by  2 to equal 4" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
+    <history-entry file="Calculator_Subtract_2_by__2_has_a_result_equal_to_0 - 2020.02.24 at 12h 59m 38s.xml">
+      <configuration name="Calculator Subtract 2 by  2 has a result equal to 0" configurationId="JavaScriptTestRunnerJest" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1147000" />
+    <option name="totallyTimeSpent" value="1550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="65" width="1424" height="820" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24946544" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24946544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32967034" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -281,11 +290,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/calc.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/calc.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -299,6 +303,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calc.test.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
