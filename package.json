@@ -1,0 +1,21 @@
+{
+  "name": "iproj1",
+  "version": "1.0.0",
+  "description": "Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js",
+    "coverage": "jest --coverage",
+    "coveralls": "jest --coverage && cat ./tests/coverage/lcov.info | node_modules/coveralls"
+  },
+  "keywords": [],
+  "author": "Juline Limtian",
+  "email": "jl863@njit.edu",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "coveralls": "^3.0.9",
+    "jest": "^25.1.0"
+  }
+}
